@@ -2,4 +2,5 @@
 IS4Tutorial/bin
 
 IS4Tutorial/obj
-.vs/IS4Tutorial/v15/Server/sqlite3/db.lock
+IS4Client/bin
+IS4Client/obj

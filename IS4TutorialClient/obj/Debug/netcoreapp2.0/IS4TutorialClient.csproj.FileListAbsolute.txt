@@ -1,0 +1,11 @@
+C:\Users\scott.alexander\Development\IS4Tutorial\IS4TutorialClient\bin\Debug\netcoreapp2.0\IS4TutorialClient.deps.json
+C:\Users\scott.alexander\Development\IS4Tutorial\IS4TutorialClient\bin\Debug\netcoreapp2.0\IS4TutorialClient.runtimeconfig.json
+C:\Users\scott.alexander\Development\IS4Tutorial\IS4TutorialClient\bin\Debug\netcoreapp2.0\IS4TutorialClient.runtimeconfig.dev.json
+C:\Users\scott.alexander\Development\IS4Tutorial\IS4TutorialClient\bin\Debug\netcoreapp2.0\IS4TutorialClient.dll
+C:\Users\scott.alexander\Development\IS4Tutorial\IS4TutorialClient\obj\Debug\netcoreapp2.0\IS4TutorialClient.csprojResolveAssemblyReference.cache
+C:\Users\scott.alexander\Development\IS4Tutorial\IS4TutorialClient\obj\Debug\netcoreapp2.0\IS4TutorialClient.csproj.CoreCompileInputs.cache
+C:\Users\scott.alexander\Development\IS4Tutorial\IS4TutorialClient\obj\Debug\netcoreapp2.0\IS4TutorialClient.AssemblyInfoInputs.cache
+C:\Users\scott.alexander\Development\IS4Tutorial\IS4TutorialClient\obj\Debug\netcoreapp2.0\IS4TutorialClient.AssemblyInfo.cs
+C:\Users\scott.alexander\Development\IS4Tutorial\IS4TutorialClient\bin\Debug\netcoreapp2.0\IS4TutorialClient.pdb
+C:\Users\scott.alexander\Development\IS4Tutorial\IS4TutorialClient\obj\Debug\netcoreapp2.0\IS4TutorialClient.dll
+C:\Users\scott.alexander\Development\IS4Tutorial\IS4TutorialClient\obj\Debug\netcoreapp2.0\IS4TutorialClient.pdb
